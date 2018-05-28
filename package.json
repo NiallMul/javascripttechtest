@@ -1,0 +1,19 @@
+{
+  "name": "edgescan-permission-resolver-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "expect": "^22.4.3",
+    "mocha": "^5.0.0"
+  },
+  "dependencies": {
+    "npm": "^6.0.1",
+    "tsort": "0.0.1"
+  }
+}
